@@ -1,0 +1,3 @@
+C:/Users/Arturo Es Gnial/Downloads/Micros-20200601T223545Z-001/Micros/test/Manejo_de_bits/CMakeFiles/manejo_bits.dir
+C:/Users/Arturo Es Gnial/Downloads/Micros-20200601T223545Z-001/Micros/test/Manejo_de_bits/CMakeFiles/edit_cache.dir
+C:/Users/Arturo Es Gnial/Downloads/Micros-20200601T223545Z-001/Micros/test/Manejo_de_bits/CMakeFiles/rebuild_cache.dir

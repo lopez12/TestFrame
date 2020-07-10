@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Arturo Es Gnial/Downloads/Micros-20200601T223545Z-001/Micros/test/Manejo_de_bits/manejodebits_test.c
+stdio.h
+-
+manejodebits_test.h
+C:/Users/Arturo Es Gnial/Downloads/Micros-20200601T223545Z-001/Micros/test/Manejo_de_bits/manejodebits_test.h
+
+C:/Users/Arturo Es Gnial/Downloads/Micros-20200601T223545Z-001/Micros/test/Manejo_de_bits/manejodebits_test.h
+
