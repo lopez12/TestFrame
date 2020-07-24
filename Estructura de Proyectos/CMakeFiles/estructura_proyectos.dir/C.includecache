@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Arturo Es Gnial/Downloads/Micros-20200601T223545Z-001/Micros/test/Estructura de Proyectos/estructura_proyectos.c
+stdio.h
+-
+stdlib.h
+-
+estructura_proyectos.h
+C:/Users/Arturo Es Gnial/Downloads/Micros-20200601T223545Z-001/Micros/test/Estructura de Proyectos/estructura_proyectos.h
+
+C:/Users/Arturo Es Gnial/Downloads/Micros-20200601T223545Z-001/Micros/test/Estructura de Proyectos/estructura_proyectos.h
+

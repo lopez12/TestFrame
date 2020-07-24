@@ -1,0 +1,3 @@
+C:/Users/Arturo Es Gnial/Downloads/Micros-20200601T223545Z-001/Micros/test/Estructura de Proyectos/CMakeFiles/estructura_proyectos.dir
+C:/Users/Arturo Es Gnial/Downloads/Micros-20200601T223545Z-001/Micros/test/Estructura de Proyectos/CMakeFiles/edit_cache.dir
+C:/Users/Arturo Es Gnial/Downloads/Micros-20200601T223545Z-001/Micros/test/Estructura de Proyectos/CMakeFiles/rebuild_cache.dir
